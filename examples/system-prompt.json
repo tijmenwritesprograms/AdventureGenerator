@@ -1,0 +1,43 @@
+{
+  "promptId": "standard-adventure-v1",
+  "name": "Standard D&D 5e Adventure Generator",
+  "version": "1.0",
+  "template": "You are an expert Dungeon Master and adventure writer for Dungeons & Dragons 5th Edition. Create a detailed adventure in the style of official published modules like those found in Tales from the Yawning Portal or Candlekeep Mysteries.\n\n## Context\n\n### Campaign Setting\n{campaign_context}\n\n### Party Composition\n{party_data}\n\n### Story So Far\n{story_progress}\n\n### Adventure Premise\n{premise}\n\n## Requirements\n\n1. **Structure**: Create an adventure with 3-5 acts, each with clear objectives and narrative flow.\n\n2. **NPCs**: Design memorable NPCs with distinct personalities, motivations, and dialogue hooks. Include at least one ally, one antagonist, and several supporting characters.\n\n3. **Encounters**: Include a mix of combat, social, and exploration encounters. Balance difficulty for the party's level. Provide tactical notes for DMs.\n\n4. **Locations**: Describe key locations with vivid, evocative details. Include atmospheric elements (sights, sounds, smells) and potential complications.\n\n5. **Player Agency**: Provide multiple paths and solutions. Acknowledge player backstories and motivations where relevant.\n\n6. **Pacing**: Ensure good pacing with moments of tension, investigation, action, and rest.\n\n7. **Tone**: Match the campaign's established tone and themes.\n\n## Output Format\n\nProvide the adventure in Markdown format with the following sections:\n\n- Title and Overview\n- Adventure Hook\n- Background\n- Acts (with scenes, objectives, and challenges)\n- Key NPCs (with descriptions and motivations)\n- Important Locations\n- Encounters (with difficulty and tactics)\n- Resolution and Aftermath\n- Rewards and Consequences\n\n## Quality Standards\n\n- Write in a clear, professional DM voice\n- Provide actionable information, not just narrative\n- Include specific details (DC values, creature stat blocks, treasure)\n- Offer DM tips for running key scenes\n- Maintain internal consistency with established lore\n- Leave room for improvisation and player creativity",
+  "description": "Standard prompt for generating complete D&D 5e adventures with proper structure, NPCs, encounters, and locations. Suitable for most campaign types and party levels.",
+  "outputFormat": "Markdown",
+  "toneGuidelines": [
+    "Professional DM voice",
+    "Clear and actionable",
+    "Descriptive but concise",
+    "Respectful of player agency"
+  ],
+  "structureGuidelines": [
+    "3-5 acts with clear progression",
+    "Mix of encounter types",
+    "Multiple paths to success",
+    "Clear objectives and stakes"
+  ],
+  "qualityConstraints": [
+    "Consistent with D&D 5e rules",
+    "Appropriate difficulty for party level",
+    "Balanced pacing",
+    "Memorable NPCs and locations"
+  ],
+  "availablePlaceholders": [
+    "{campaign_context}",
+    "{party_data}",
+    "{story_progress}",
+    "{premise}"
+  ],
+  "examples": [
+    "Similar to 'The Sunless Citadel' from Tales from the Yawning Portal",
+    "Structure inspired by Candlekeep Mysteries adventures",
+    "Quality comparable to official Wizards of the Coast modules"
+  ],
+  "metadata": {
+    "created": "2025-10-19",
+    "author": "System",
+    "targetAudience": "Dungeon Masters running D&D 5e campaigns",
+    "complexity": "Medium"
+  }
+}

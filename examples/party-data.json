@@ -1,0 +1,188 @@
+{
+  "partyName": "The Forgotten Few",
+  "characters": [
+    {
+      "name": "Theron Swiftblade",
+      "race": "Half-Elf",
+      "class": "Rogue (Swashbuckler)",
+      "level": 5,
+      "backstory": "Theron grew up in the streets of Waterdeep, learning to survive through wit and agility. He was taken in by a retired adventurer who taught him the art of the blade. Now he seeks to uncover the truth about his elven mother's disappearance.",
+      "motivations": [
+        "Find his missing mother",
+        "Prove his worth to the Harpers",
+        "Accumulate enough wealth to buy a tavern"
+      ],
+      "personality": {
+        "traits": [
+          "Charming and quick-witted",
+          "Loyal to friends but distrustful of authority"
+        ],
+        "ideals": [
+          "Freedom: Everyone deserves to make their own choices"
+        ],
+        "bonds": [
+          "My mother's pendant is all I have left of her"
+        ],
+        "flaws": [
+          "I can't resist a pretty face or a good bet"
+        ]
+      },
+      "relationships": [
+        {
+          "target": "Elena Brightshield",
+          "type": "Friend",
+          "description": "Saved each other's lives during their first adventure"
+        },
+        {
+          "target": "Remallia Haventree",
+          "type": "Mentor",
+          "description": "Harper agent who occasionally provides information"
+        }
+      ],
+      "notableItems": [
+        "Mother's silver pendant",
+        "Rapier +1",
+        "Cloak of Elvenkind"
+      ],
+      "playerName": "Alex"
+    },
+    {
+      "name": "Elena Brightshield",
+      "race": "Human",
+      "class": "Paladin (Oath of Devotion)",
+      "level": 5,
+      "backstory": "Elena came to Waterdeep from a small village after her family was killed by bandits. She trained as a paladin in the service of Torm, the god of courage and self-sacrifice. She swore an oath to protect the innocent and uphold justice.",
+      "motivations": [
+        "Bring justice to evildoers",
+        "Protect the weak and innocent",
+        "Redeem those who have fallen"
+      ],
+      "personality": {
+        "traits": [
+          "Unwavering in her convictions",
+          "Compassionate but stern"
+        ],
+        "ideals": [
+          "Justice: Those who do wrong must be held accountable"
+        ],
+        "bonds": [
+          "I will never forget the faces of those who destroyed my home"
+        ],
+        "flaws": [
+          "I see things in black and white, with little room for grey"
+        ]
+      },
+      "relationships": [
+        {
+          "target": "Theron Swiftblade",
+          "type": "Friend",
+          "description": "Despite their different worldviews, they trust each other"
+        }
+      ],
+      "notableItems": [
+        "Longsword (Holy Avenger)",
+        "Shield with Torm's symbol",
+        "Plate Armor"
+      ],
+      "playerName": "Sarah"
+    },
+    {
+      "name": "Zephyr Stormcaller",
+      "race": "Tiefling",
+      "class": "Sorcerer (Storm Sorcery)",
+      "level": 5,
+      "backstory": "Born during a fierce storm at sea, Zephyr's innate magical abilities manifested early. Shunned by many due to their infernal heritage, they found solace in studying the arcane. They came to Waterdeep seeking knowledge and acceptance.",
+      "motivations": [
+        "Master storm magic",
+        "Prove that heritage doesn't define character",
+        "Uncover ancient magical secrets"
+      ],
+      "personality": {
+        "traits": [
+          "Curious and analytical",
+          "Socially awkward but well-meaning"
+        ],
+        "ideals": [
+          "Knowledge: The path to power and self-improvement is through knowledge"
+        ],
+        "bonds": [
+          "My spellbook is my most prized possession"
+        ],
+        "flaws": [
+          "I speak without thinking when excited about magic"
+        ]
+      },
+      "relationships": [
+        {
+          "target": "Grimble Flintstone",
+          "type": "Research Partner",
+          "description": "They often discuss magical theory together"
+        }
+      ],
+      "notableItems": [
+        "Wand of Lightning Bolts",
+        "Robe of Useful Items",
+        "Amulet of Storm's Protection"
+      ],
+      "playerName": "Jordan"
+    },
+    {
+      "name": "Grimble Flintstone",
+      "race": "Rock Gnome",
+      "class": "Artificer (Artillerist)",
+      "level": 5,
+      "backstory": "Grimble left his clan's workshop in the mountains to bring his inventions to the wider world. His gadgets are as likely to explode as they are to work perfectly, but his enthusiasm never wavers. He sees Waterdeep as a treasure trove of inspiration.",
+      "motivations": [
+        "Create the ultimate magical invention",
+        "Become famous for his creations",
+        "Find rare materials and components"
+      ],
+      "personality": {
+        "traits": [
+          "Cheerful and optimistic",
+          "Always tinkering with something"
+        ],
+        "ideals": [
+          "Innovation: Progress comes from trying new things"
+        ],
+        "bonds": [
+          "My first invention (a clockwork bird) goes everywhere with me"
+        ],
+        "flaws": [
+          "I get so focused on my work I forget about danger"
+        ]
+      },
+      "relationships": [
+        {
+          "target": "Zephyr Stormcaller",
+          "type": "Research Partner",
+          "description": "Collaborates on combining magic and mechanics"
+        }
+      ],
+      "notableItems": [
+        "Eldritch Cannon (turret form)",
+        "Bag of Holding (filled with tools and parts)",
+        "Goggles of Night"
+      ],
+      "playerName": "Mike"
+    }
+  ],
+  "averageLevel": 5,
+  "partyBackground": "The party came together during a chance encounter at the Yawning Portal, where they defended the inn against a group of thugs. Since then, they've taken on various jobs around Waterdeep, building a reputation as reliable problem-solvers. They're known to the city watch and several factions, though they try to remain independent.",
+  "sharedGoals": [
+    "Uncover the mystery behind the recent disappearances",
+    "Gain recognition from the Lords of Waterdeep",
+    "Establish a secure base of operations in the city"
+  ],
+  "achievements": [
+    "Saved the Yawning Portal from being robbed",
+    "Cleared out a nest of wererats in the sewers",
+    "Recovered a stolen artifact for the Blackstaff",
+    "Helped negotiate peace between two rival guilds"
+  ],
+  "metadata": {
+    "campaignId": "forgotten-realms-01",
+    "created": "2025-10-19",
+    "lastModified": "2025-10-19"
+  }
+}
