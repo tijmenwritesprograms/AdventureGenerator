@@ -1,0 +1,63 @@
+{
+  "campaignId": "forgotten-realms-01",
+  "name": "Shadows Over Waterdeep",
+  "setting": "The bustling city of Waterdeep in the Forgotten Realms, a cosmopolitan metropolis where intrigue, magic, and adventure converge. The city is divided into wards, each with its own character, from the wealthy Sea Ward to the dangerous Dock Ward.",
+  "tone": "Urban intrigue with elements of mystery and political maneuvering. Moderate danger with occasional dark undertones.",
+  "factions": [
+    {
+      "name": "The Harpers",
+      "description": "A secret network of spellcasters and spies who advocate for equality and covertly oppose the abuse of power. They work in the shadows to keep power out of the hands of the unworthy.",
+      "relationship": "Allied",
+      "notableMembers": [
+        "Remallia Haventree (Harper Agent)",
+        "Mirt the Moneylender (Harper contact)"
+      ]
+    },
+    {
+      "name": "The Zhentarim",
+      "description": "A shadowy network of mercenaries and merchants seeking to expand their influence through legitimate and illicit means. They value power and profit above all.",
+      "relationship": "Neutral (with tensions)",
+      "notableMembers": [
+        "Davil Starsong (Zhentarim operative)",
+        "Yagra Stonefist (enforcer)"
+      ]
+    },
+    {
+      "name": "The Lords' Alliance",
+      "description": "A coalition of rulers from cities across Faerûn who believe in mutual defense and prosperity. They seek to maintain the political balance in Waterdeep.",
+      "relationship": "Allied",
+      "notableMembers": [
+        "Laeral Silverhand (Open Lord of Waterdeep)",
+        "Vajra Safahr (Blackstaff)"
+      ]
+    }
+  ],
+  "majorArcs": [
+    "The mysterious disappearance of nobles from the Sea Ward",
+    "Rising tensions between the city's merchant guilds",
+    "Strange magical disturbances in the Undermountain",
+    "A prophecy about an ancient artifact hidden beneath the city"
+  ],
+  "keyLocations": [
+    "Yawning Portal Inn",
+    "Blackstaff Tower",
+    "Castle Waterdeep",
+    "The Dock Ward",
+    "Undermountain (Dungeon of the Mad Mage)"
+  ],
+  "lore": "Waterdeep, also known as the City of Splendors, has stood for over a thousand years as a beacon of civilization in the North. Founded by pirates and rogues, it has grown into one of the most influential cities in Faerûn. The city is ruled by a council of masked Lords, with only the Open Lord's identity publicly known. Beneath the city lies Undermountain, a vast dungeon carved by the mad wizard Halaster Blackcloak.",
+  "campaignRules": [
+    "Starting at level 3",
+    "Using milestone leveling",
+    "Flanking rules are in effect",
+    "No firearms allowed",
+    "Resurrection magic is rare and costly"
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-10-19",
+    "lastModified": "2025-10-19",
+    "dmName": "Tijmen",
+    "settingSource": "Forgotten Realms (D&D 5e)"
+  }
+}

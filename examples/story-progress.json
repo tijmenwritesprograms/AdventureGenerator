@@ -1,0 +1,107 @@
+{
+  "campaignId": "forgotten-realms-01",
+  "sessionNumber": 8,
+  "summary": "The party has been investigating a series of mysterious disappearances in Waterdeep's Sea Ward. Over the past several sessions, they've uncovered a connection to an ancient cult that worships an aberrant entity from the Far Realm. They tracked cult activity to an abandoned mansion in the Dock Ward, where they defeated several cultists and rescued two nobles. However, the cult's high priest escaped through a portal, taking with him a magical artifact called the Eye of the Deep. The party learned that the cult plans to use the artifact in a ritual during the next full moon to open a permanent gateway to the Far Realm.",
+  "previousSessions": [
+    {
+      "sessionNumber": 1,
+      "title": "The Vanishing Nobles",
+      "summary": "The party was hired by Lady Cassandra Moonwhisper to investigate the disappearance of her son. They discovered that he was last seen at a masquerade ball in the Sea Ward.",
+      "date": "2025-09-01T19:00:00Z"
+    },
+    {
+      "sessionNumber": 2,
+      "title": "Shadows at the Ball",
+      "summary": "The party attended a recreation of the masquerade and identified a suspicious servant who was actually a disguised cultist. They followed the cultist to a safehouse but arrived too late to prevent another kidnapping.",
+      "date": "2025-09-08T19:00:00Z"
+    },
+    {
+      "sessionNumber": 3,
+      "title": "Into the Sewers",
+      "summary": "Following clues from the safehouse, the party explored Waterdeep's sewers. They encountered corrupted creatures and found evidence of ritual sacrifices. They also discovered strange symbols matching those from ancient texts about the Far Realm.",
+      "date": "2025-09-15T19:00:00Z"
+    },
+    {
+      "sessionNumber": 4,
+      "title": "The Library of Blackstaff",
+      "summary": "The party consulted with scholars at Blackstaff Tower about the symbols. They learned about an ancient cult called the Watchers of the Void that was thought to be extinct. Vajra Safahr, the Blackstaff, warned them about the dangers of the Far Realm.",
+      "date": "2025-09-22T19:00:00Z"
+    },
+    {
+      "sessionNumber": 5,
+      "title": "Betrayal in the Harpers",
+      "summary": "The party discovered that one of their Harper contacts was secretly feeding information to the cult. A tense confrontation in the Yawning Portal led to a fight that drew the attention of the city watch.",
+      "date": "2025-09-29T19:00:00Z"
+    },
+    {
+      "sessionNumber": 6,
+      "title": "The Abandoned Mansion",
+      "summary": "Following the traitor's information, the party located the cult's hideout in an old Dock Ward mansion. They fought through corrupted guardians and discovered a chamber where the kidnapped nobles were being held.",
+      "date": "2025-10-06T19:00:00Z"
+    },
+    {
+      "sessionNumber": 7,
+      "title": "The High Priest Escapes",
+      "summary": "The party confronted the cult's high priest, Malaketh the Void-touched. Despite a fierce battle, Malaketh escaped through a portal with the Eye of the Deep. The party rescued the nobles and found documents revealing the cult's plan for a ritual on the next full moon.",
+      "date": "2025-10-13T19:00:00Z"
+    }
+  ],
+  "activePlotThreads": [
+    {
+      "name": "Stop the Full Moon Ritual",
+      "description": "The cult plans to use the Eye of the Deep to open a permanent gateway to the Far Realm during the full moon, which is only three days away. The party must find the ritual site and stop them.",
+      "status": "Active",
+      "priority": 5
+    },
+    {
+      "name": "Theron's Missing Mother",
+      "description": "Theron discovered a piece of his mother's jewelry among the cult's artifacts, suggesting she may have had contact with them before her disappearance.",
+      "status": "Active",
+      "priority": 4
+    },
+    {
+      "name": "The Harpers' Infiltration",
+      "description": "The discovery of a traitor in the Harpers suggests the cult may have deeper connections within Waterdeep's factions. The party has been asked to help root out potential moles.",
+      "status": "Active",
+      "priority": 3
+    },
+    {
+      "name": "Grimble's Invention Commission",
+      "description": "A wealthy merchant has commissioned Grimble to create a magical security system. The deadline is approaching, but the cult investigation has taken priority.",
+      "status": "Paused",
+      "priority": 2
+    }
+  ],
+  "knownNPCs": [
+    "Lady Cassandra Moonwhisper (quest giver)",
+    "Malaketh the Void-touched (cult high priest, antagonist)",
+    "Remallia Haventree (Harper agent, ally)",
+    "Vajra Safahr (the Blackstaff, information source)",
+    "Davil Starsong (Zhentarim contact)",
+    "Captain Hyustus Staget (city watch captain)",
+    "Durnan (Yawning Portal proprietor)"
+  ],
+  "visitedLocations": [
+    "Yawning Portal Inn",
+    "Sea Ward mansions",
+    "Waterdeep sewers",
+    "Blackstaff Tower",
+    "Abandoned mansion in Dock Ward",
+    "Various shops and taverns"
+  ],
+  "keyEvents": [
+    "Hired to investigate noble disappearances",
+    "Infiltrated masquerade ball",
+    "Discovered cult connection to Far Realm",
+    "Learned about the Eye of the Deep artifact",
+    "Uncovered Harper traitor",
+    "Rescued kidnapped nobles",
+    "High priest escaped with the artifact"
+  ],
+  "partyStatus": "The party is exhausted but determined. They've expended most of their resources in the mansion battle and need a long rest. However, they know time is running out before the full moon ritual. Elena is eager to pursue Malaketh immediately, while Theron wants to investigate his mother's connection to the cult. Zephyr is researching ways to close a Far Realm portal, and Grimble is working on devices that might help in the final confrontation.",
+  "lastUpdated": "2025-10-18T23:00:00Z",
+  "metadata": {
+    "campaignId": "forgotten-realms-01",
+    "dmNotes": "Party is invested in stopping the cult. Consider allowing them to gather allies from the factions before the final confrontation. The ritual site should be dramatic and challenging."
+  }
+}

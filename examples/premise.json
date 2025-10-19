@@ -1,0 +1,30 @@
+{
+  "title": "Echoes from the Deep",
+  "hook": "The full moon is only three days away. The party must locate the cult's ritual site beneath Waterdeep and prevent Malaketh from opening a permanent gateway to the Far Realm. Clues from the abandoned mansion suggest the ritual will take place in a forgotten temple deep in Undermountain, accessible through the city's ancient sewer system.",
+  "conflict": "The cult of the Watchers of the Void will complete their ritual to open a permanent gateway to the Far Realm, unleashing aberrant horrors upon Waterdeep unless the party can stop them. Complicating matters, the party has limited time and Malaketh has the advantage of knowing the ritual site's defenses.",
+  "location": "The Forgotten Temple of the Void - a hidden shrine deep beneath Waterdeep in the upper levels of Undermountain, accessible through ancient tunnels from the sewers",
+  "suggestedLevelRange": {
+    "min": 5,
+    "max": 6
+  },
+  "themes": [
+    "Race against time",
+    "Cosmic horror",
+    "Redemption and sacrifice",
+    "Uncovering hidden truths"
+  ],
+  "keyNPCs": [
+    "Malaketh the Void-touched (cult high priest, final antagonist)",
+    "Theron's mother (possible revelation)",
+    "Vajra Safahr (provides magical support)",
+    "Remallia Haventree (can mobilize Harper allies)"
+  ],
+  "expectedOutcomes": [
+    "Party stops the ritual and defeats Malaketh",
+    "Party learns the truth about Theron's mother",
+    "Gateway is partially opened but contained",
+    "One or more party members may be corrupted by Far Realm energy",
+    "Cult is defeated but remnants escape to cause future problems"
+  ],
+  "notes": "This is designed as a climactic finale to the current story arc. Allow opportunities for the party to gather allies and resources during the three-day preparation period. The ritual site should be challenging but not impossible, with opportunities for clever solutions. Consider personal stakes for each character, especially Theron's connection to the cult through his mother."
+}
